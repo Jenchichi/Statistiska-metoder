@@ -87,6 +87,3 @@ antal_förorter_mer_an_åtta_rum = boston[boston['rm'] > 8].shape[0]
 print(f"Antal förorter med i genomsnitt mer än 7 rum per bostad: {antal_förorter_mer_an_sju_rum} st.")
 print(f"Antal förorter med i genomsnitt mer än 8 rum per bostad: {antal_förorter_mer_an_åtta_rum} st.")
 
-
-
-#testar
