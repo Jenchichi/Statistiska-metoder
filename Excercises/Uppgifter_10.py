@@ -1,7 +1,6 @@
 # 10a) Denna övning involverar bostadsdatasettet från Boston.
 # För att börja, ladda in bostonsdatasettet, som är en del av ISLP-biblioteket.
 from ISLP import load_data
-from pandas.core.window.numba_ import generate_manual_numpy_nan_agg_with_axis
 import seaborn as sns
 import matplotlib.pyplot as plt
 
